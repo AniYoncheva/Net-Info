@@ -1,0 +1,92 @@
+[{
+		"gallery": [{
+				"url": "images/gallery/1.png",
+				"description": "Volvo XC40 води, а не следва",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/2.png",
+				"description": "Тези животни вече няма да се изявяват в Англия",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/3.png",
+				"description": "88-ми Aвтосалон в Женева",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/4.png",
+				"description": "Каква ще бъде 2018-а за всяка зодия",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/5.png",
+				"description": "Най-бляскавите тоалети от наградите Оскар",
+				"count": "24 снимки"
+			},
+			{
+				"url": "images/gallery/6.png",
+				"description": "Неща, които могат да бъдат видени един път",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/8.png",
+				"description": "Сторми Даниълс - порноактрисата, принудена да мълчи от Тръмп",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/7.png",
+				"description": "Volvo XC40 води, а не следва",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/9.png",
+				"description": "Тези животни вече няма да се изявяват в Англия",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/10.png",
+				"description": "88-ми Aвтосалон в Женева",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/14.png",
+				"description": "Българката, която ще ви накара да повярвате в доброто",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/11.png",
+				"description": "Най-бляскавите тоалети от наградите Оскар",
+				"count": "24 снимки"
+			},
+			{
+				"url": "images/gallery/12.png",
+				"description": "Каква ще бъде 2018-а за всяка зодия",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/13.png",
+				"description": "Неща, които могат да бъдат видени един път",
+				"count": "18 снимки"
+			},
+			{
+				"url": "images/gallery/15.png",
+				"description": "Каква ще бъде 2018-а за всяка зодия",
+				"count": "18 снимки"
+			}
+		]
+	},
+	{
+		"slider": [{
+				"url": "images/slider/1.png",
+				"description": "Сусамът е отличен източник на антиоксиданти а тръстиковата захар предпазва от недостиг на желязо. На фона на общо намаляване на силите този десерт е отлична добавка към храната. ",
+				"autor": "Георги Димитров  /  Vesti.bg"
+			},
+			{
+				"url": "images/slider/2.png",
+				"description": "Сусамът е отличен източник на антиоксиданти. ",
+				"autor": "Георги Димитров  /  Vesti.bg"
+			}
+		]
+	}
+]
